@@ -1,5 +1,5 @@
 # fifa
-Proyecto realizado en mi primer trimestre en DAW.</br>
+Proyecto realizado en mi primer trimestre en DAW.</br> Todavía no habíamos tratado los objetos, aunque hago uso del objeto Tiempo para el contador.
 Se trata de un "fifa" para 2 jugadores. Primeramente tendremos un menú con las siguientes opciones: crear equipo 1, crear equipo 2, mostrar equipos, jugar partido, tanda de penaltis, salir.</br>
 Crear equipo: para crear un equipo iremos creando sus jugadores e introduciendo sus datos y estadísticas.</br>
 Jugar partido: se enfrentarán ambos equipos en un partido por turnos donde los jugadores irán eligiendo que jugadores realizán las acciones de regatear, defender, tirar y parar. Tiene modo por goles y modo por tiempo.</br>
